@@ -74,6 +74,11 @@ body {
             justify-content: space-between;
 }
 
+main.main_all {
+    top: -4rem;
+    position: relative;
+}
+
 .play {
     position: absolute;
     top: 4.5rem;
